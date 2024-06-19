@@ -107,5 +107,5 @@ Whenever you restart Safari, you will need to enable **Allow unsigned extensions
 
 By following these steps, you can easily convert and use Chrome extensions in Safari. Enjoy the expanded functionality!
 
-#License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
